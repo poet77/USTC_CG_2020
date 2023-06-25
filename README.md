@@ -1,2 +1,2 @@
 # USTC_CG_2020
-USTC_CG_2020 Homeworks by 77
+中国科学技术大学计算机图形学 2020年课程作业
