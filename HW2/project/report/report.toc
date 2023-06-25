@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}问题介绍}{1}{}%
+\contentsline {subsection}{\numberline {1.1}主要目的}{1}{}%
+\contentsline {section}{\numberline {2}算法设计}{2}{}%
+\contentsline {subsection}{\numberline {2.1}程序框架}{2}{}%
+\contentsline {subsection}{\numberline {2.2}IDW算法}{2}{}%
+\contentsline {subsection}{\numberline {2.3}RBF算法}{3}{}%
+\contentsline {subsection}{\numberline {2.4}填补白缝}{3}{}%
+\contentsline {section}{\numberline {3}结果展示}{4}{}%
+\contentsline {subsection}{\numberline {3.1}程序界面}{4}{}%
+\contentsline {subsection}{\numberline {3.2}功能讲解}{4}{}%
+\contentsline {subsection}{\numberline {3.3}实验结果}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}向外拉}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}向内拉}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}旋转变换}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}其他例子}{7}{}%
+\contentsline {section}{\numberline {4}总结与讨论}{7}{}%
